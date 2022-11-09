@@ -1,0 +1,7 @@
+C:\AD\InveighZero-master\Inveigh\bin\x64\Debug\Inveigh.exe.config
+C:\AD\InveighZero-master\Inveigh\bin\x64\Debug\Inveigh.exe
+C:\AD\InveighZero-master\Inveigh\bin\x64\Debug\Inveigh.pdb
+C:\AD\InveighZero-master\Inveigh\obj\x64\Debug\Inveigh.csprojAssemblyReference.cache
+C:\AD\InveighZero-master\Inveigh\obj\x64\Debug\Inveigh.csproj.CoreCompileInputs.cache
+C:\AD\InveighZero-master\Inveigh\obj\x64\Debug\Inveigh.exe
+C:\AD\InveighZero-master\Inveigh\obj\x64\Debug\Inveigh.pdb

